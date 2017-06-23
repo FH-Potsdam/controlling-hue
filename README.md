@@ -24,5 +24,5 @@ Now you can add your code in the index.js file to controll the hue bulbs.
 
 
 
-[download]: http://example.com
+[download]: https://github.com/FH-Potsdam/controlling-hue/archive/master.zip
 [host]: http://localhost:3000
