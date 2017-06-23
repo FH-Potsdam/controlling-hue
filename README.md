@@ -5,7 +5,7 @@ This is boilerplate code for the hue team.
 
 ## Usage
 
-download this package [here][].
+download this package [here][download].
 cd into the folder with the terminal.
 
 Install the modules
