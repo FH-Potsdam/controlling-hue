@@ -5,8 +5,11 @@ This is boilerplate code for the hue team.
 
 ## Usage
 
-download this package [here][download].
-cd into the folder with the terminal.
+Download and unzip this package [here][download].  
+
+Move with the terminal into the folder.  
+
+    cd ~/Downloads/controlling-hue-master/
 
 Install the modules
 
@@ -16,11 +19,11 @@ Run it
 
     node index.js
 
-open [http://localhost:3000][host]
+open [http://localhost:3000][host].  
 
-Click the buttons.
+Click the buttons.  
 
-Now you can add your code in the index.js file to controll the hue bulbs.  
+Now you can add your code in the index.js file to control the hue bulbs.  
 
 
 
